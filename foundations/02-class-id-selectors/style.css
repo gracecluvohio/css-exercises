@@ -1,0 +1,19 @@
+.salmon {
+    background-color: rgb(231, 150, 150);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#two {
+    color: #1100f9;
+    font-size: 36px;
+}
+
+.salmon#three {
+    font-size: 24px;
+}
+
+#four {
+    background-color: hsl(120, 71%, 66%);
+    font-size: 24px;
+    font-weight: bold;
+}
